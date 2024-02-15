@@ -27,3 +27,15 @@
     </tr> -->
   </tbody>
 </table>
+
+## PROJECTS IN PROGRESS
+
+### Building Machine Learning Models
+- Not available yet
+
+### Deploying Machine Learning Models with AWS (Serverless/Containers)
+- Not available yet
+
+### Geospatial Data Analysis/Modeling
+- Not available yet
+
