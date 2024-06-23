@@ -37,5 +37,5 @@
 - Not available yet
 
 ### Geospatial Data Analysis/Modeling
-- [Repository 1](https://github.com/dbasusarkar/geospatial_data_visualization)
+- [Geospatial Repository 1](https://github.com/dbasusarkar/geospatial_data_visualization)
 
