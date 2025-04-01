@@ -31,7 +31,8 @@
 ## PROJECTS IN PROGRESS
 
 ### Building Machine Learning Models
-- Not available yet
+- High-Frequency Trading (HFT) Systems
+  - Not available yet
 
 ### Deploying Machine Learning Models with AWS (Serverless/Containers)
 - Not available yet
