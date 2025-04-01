@@ -33,6 +33,8 @@
 ### Building Machine Learning Models
 - High-Frequency Trading (HFT) Systems
   - Not available yet
+- Imaging Europa
+  - Not available yet
 
 ### Deploying Machine Learning Models with AWS (Serverless/Containers)
 - Not available yet
