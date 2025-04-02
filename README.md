@@ -33,7 +33,7 @@
 ### Building Machine Learning Models
 - High-Frequency Trading (HFT) Systems
   - Not available yet
-- Imaging Europa
+- Imaging Europa—the Jovian/Galilean Satellite
   - Not available yet
 
 ### Deploying Machine Learning Models with AWS (Serverless/Containers)
